@@ -17,6 +17,16 @@
 
 目前包含 Vue
 
+>  ## [MICROCOM](https://github.com/KAMUZUKI/MICROCOM) 
+
+一个微社区网站，前后端分离，使用spring boot、mybatis-plus
+
+前端使用Vue3 + Ant Design + Quasar,Vue-cli构建
+
+数据库使用Mysql5.7，Redis
+
+搜素引擎MeiliSearch，数据同步MeiliSync
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamuzuki&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuzuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
