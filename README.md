@@ -3,7 +3,7 @@
 
 这个仓库用来放Java学习代码
 
-目前含有 Java基础  JavaWeb  Spring  SpringMVC  SpringBoot  SpringCloud
+目前含有 Java基础  JavaWeb  Spring  SpringMVC  Spring Boot  Spring Cloud
 
 >  ## [MUChat](https://github.com/KAMUZUKI/MUChat) 
 
@@ -19,13 +19,13 @@
 
 >  ## [MICROCOM](https://github.com/KAMUZUKI/MICROCOM) 
 
-一个微社区网站，前后端分离，使用spring boot、mybatis-plus
+一个微社区网站，前后端分离，使用Spring Boot、MyBatis-Plus
 
 前端使用Vue3 + Ant Design + Quasar,Vue-cli构建
 
-数据库使用Mysql5.7，Redis
+数据库使用MySQL5.7，Redis
 
-搜素引擎MeiliSearch，数据同步MeiliSync
+搜素引擎Meilisearch，数据同步Meilisync
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamuzuki&show_icons=true&theme=radical)
 
